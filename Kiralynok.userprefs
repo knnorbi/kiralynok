@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{62167AD9-B305-4E52-B451-B7D937748249}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kiralynok/Tabla.cs">
+    <Files>
+      <File FileName="Kiralynok/Program.cs" Line="9" Column="13" />
+      <File FileName="Kiralynok/Tabla.cs" Line="6" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Kiralynok PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
